@@ -1,4 +1,9 @@
-[Assignment Ideas 💡](https://www.notion.so/Assignment-Ideas-15c45a61dc0380e6a54fd67caf2a200b?pvs=21)
+
+
+[[Full Stack Development/Project Ideas|Project Ideas 💡]]
+
+
+*This entire full stack roadmap is inspired from Chai aur Code Cohort. You are free to follow this roadmap, to learn full stack development, along with devops and AI. This is beginner friendly roadmap that covers all the concepts of MERN Stack, NextJS, AWS*
 
 ## **Phase 0: Web Warriors ⚔️**
 
@@ -139,7 +144,7 @@
 - **Key Concepts:** Variables, Data Types, Operators, Conditionals
 
 ### 2. **Functions – Building Blocks of JavaScript**
-
+Full Stack Development
 - What is a function and why it’s essential in JavaScript
 - Function declaration vs function expression
 - Arrow functions and their syntax
