@@ -53,12 +53,18 @@ This is the original data that was sent.
 
 ## **Python Code**
 
+Import the necessary types
+
+```python
+from typing import List
+```
+
 ### Bit Stuffing:
 
 ```python
-def bit_stuffing(arr):
-    stuffed_data = []
-    count = 0
+def bit_stuffing(arr: List[int]) -> List[int]:
+    stuffed_data: List[int] = []
+    count: int = 0
     
     for bit in arr:
         stuffed_data.append(bit)
@@ -78,11 +84,11 @@ def bit_stuffing(arr):
 ### Bit Destuffing:
 
 ```python
-def bit_destuffing(stuffed_data):
-    destuffed_data = []
-    count = 0
+def bit_destuffing(stuffed_data: List[int]) -> List[int]:
+    destuffed_data: List[int] = []
+    count: int = 0
     
-    i = 0
+    i: int = 0
     while i < len(stuffed_data):
         destuffed_data.append(stuffed_data[i])
         
