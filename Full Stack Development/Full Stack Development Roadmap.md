@@ -1,5 +1,4 @@
 
-
 [[Full Stack Development/Project Ideas|Project Ideas 💡]]
 
 
@@ -11,7 +10,7 @@
 
 ### 1. **How the Internet Works**
 
-- Introduction to the concept of the Internet
+- Introduction to the Concept of the Internet
 - Overview of the World Wide Web (WWW) and its connection to the internet
 - How data is transferred across networks
 - Understanding IP addresses, domain names, and routing
